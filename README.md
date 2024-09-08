@@ -52,7 +52,7 @@ This repository contains the code for a tool that uses a multimodal Large Langua
    ```
 
 ### Usage
-1. Open your web browser and navigate to `http://localhost:3000`.
+1. Open your web browser and navigate to `http://localhost:5173`.
 2. Enter any optional context in the text area provided.
 3. Upload one or more screenshots using the file input.
 4. Click on "Describe Testing Instructions" to generate the test cases.
