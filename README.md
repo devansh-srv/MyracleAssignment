@@ -74,4 +74,4 @@ The response from the API is then parsed and structured into a JSON format to be
 
 ## Screenshots
 **[Include screenshots of the application in use, showcasing the key features and generated test cases.]**
-
+![Product Screenshot](./pictures/240908_14h29m20s_screenshot.png?raw=true "Product Screenshot")
