@@ -42,16 +42,7 @@ This repository contains the code for a tool that uses a multimodal Large Langua
    ```bash
    cd backend
    ```
-2. Create and activate a virtual environment:
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
-3. Install the required Python packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Add your Google Gemini API key to the `API.yml` file:
+2. Add your Google Gemini API key to the `API.yml` file:
    ```yaml
    key: 'YOUR_GOOGLE_GEMINI_API_KEY'
    ```
