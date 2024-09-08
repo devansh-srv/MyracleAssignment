@@ -70,8 +70,6 @@ The backend code leverages the Google Gemini API to generate test cases by sendi
 
 The response from the API is then parsed and structured into a JSON format to be rendered on the frontend. This approach ensures that the test cases are comprehensive, consistent, and formatted correctly.
 
-**[Include specific details about any particular strategies used in crafting the prompt, handling edge cases, or processing the API responses.]**
 
 ## Screenshots
-**[Include screenshots of the application in use, showcasing the key features and generated test cases.]**
 ![Product Screenshot](./pictures/240908_14h29m20s_screenshot.png?raw=true "Product Screenshot")
