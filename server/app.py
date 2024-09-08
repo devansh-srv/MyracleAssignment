@@ -7,7 +7,7 @@ import yaml
 app = Flask(__name__)
 CORS(app)
 
-with open(r'../API.yml','r') as file:
+with open(r'./API.yml','r') as file:
     API = yaml.safe_load(file)
 
 
